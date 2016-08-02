@@ -1,0 +1,1 @@
+cropper.init('.cropper', '.cropped');
